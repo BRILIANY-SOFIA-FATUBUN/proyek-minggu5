@@ -1,1 +1,2 @@
 echo "Nama: Briliany" > biodata.txt
+echo " Cita-cita :  Pengusaha/Pebisnis" >> biodata.txt
