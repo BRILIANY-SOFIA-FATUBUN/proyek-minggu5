@@ -1,1 +1,1 @@
-echo "Nama: lili" > biodata.txt 
+echo "Nama: Briliany" > biodata.txt
